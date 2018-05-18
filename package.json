@@ -1,6 +1,6 @@
 {
   "name": "spellbook-app",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Searchable Spellbook App for Dungeons & Dragons 5th Edition",
   "main": "server.js",
   "directories": {
