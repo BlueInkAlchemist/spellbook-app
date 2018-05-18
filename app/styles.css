@@ -1,0 +1,47 @@
+/* styles.css */
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("https://fonts.googleapis.com/css?family=Ubuntu");
+}
+
+html {
+    min-height: 100%;
+    background-size: cover;
+    background: #666;
+    background-repeat: no;
+    background: linear-gradient(#CCC, #666);
+    
+    overflow: hidden;
+}
+
+h1 {
+    font-family: "Ubuntu";
+    font-weight: 600;
+}
+
+.background {
+    
+}
+
+.container {
+ 
+    width: 650px;
+    height: 350px;
+    
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    padding: 25px;
+    
+    margin: auto;
+    
+    /* background-image: url('../images/1.png'), url('../images/2.png');
+    background-repeat: no-repeat;
+    background-position: 5% 45%, 86% 20%;
+    background-origin: border-box; */
+    
+}
