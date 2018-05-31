@@ -5,7 +5,7 @@ import './styles.css';
 // import Clock from './components/clock.js';
 import Button from './components/app.js';
 import SpellForm from './components/spellform.js';
-import spellData from './data/spells.json';
+import spellData from '../lib/spells.json';
 
 // Declare document elements
 const left = document.getElementById('left')

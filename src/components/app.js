@@ -1,5 +1,5 @@
 import React from 'react';
-import spellData from '../data/spells.json';
+import spellData from '../../lib/spells.json';
 
 var obj = "";
 
